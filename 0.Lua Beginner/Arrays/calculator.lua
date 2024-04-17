@@ -1,3 +1,5 @@
+local number
+local result
 number = {}
 print("Enter number 1")
 number[1] = io.read()

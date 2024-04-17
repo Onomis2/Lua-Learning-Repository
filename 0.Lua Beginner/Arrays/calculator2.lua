@@ -1,4 +1,6 @@
-number = {}
+local number = {}
+local operator
+local result
 print("Enter operator (- or +)")
 operator = io.read()
 print("Enter number 1")
